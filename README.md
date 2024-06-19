@@ -6,7 +6,7 @@ Installation Instructions
 Follow these steps to set up the environment and run the project:
 
 1)Clone the Repository:
-////  git clone https://github.com/yourusername/neural-style-transfer.git
+////  git clone https://github.com/sukhmandeep2125/neural_style-transfer.git
 ////  cd neural-style-transfer
 2)  Create a Virtual Environment:
 //// python -m venv env
